@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YouIsm1.
 - 👀 I’m interested in AI, machine learning, deep learning modules, web development, and mobile development.
-- 🌱 I’m currently learning deep learning, web development, and mobile development.
+- 🌱 I’m currently learning deep learning, web and mobile development.
 - 💞️ I’m looking to collaborate on any project to develop my skills.
 - 📫 How to reach me? youssefelwafi77@gmail.com
 - ⚡ Fun fact: I love planning and strategizing to achieve my goals!
